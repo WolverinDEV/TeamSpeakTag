@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TS3DataParser.dir/main.cpp.o  -o TS3DataParser -ljsoncpp 

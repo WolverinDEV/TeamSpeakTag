@@ -1,0 +1,3 @@
+/home/wolverindev/git/TS3DataParser/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wolverindev/git/TS3DataParser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wolverindev/git/TS3DataParser/cmake-build-debug/CMakeFiles/TS3DataParser.dir
